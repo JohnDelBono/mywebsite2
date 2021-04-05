@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mywebsite2/static/css/main.4588547d.chunk.css",
+    "main.js": "/mywebsite2/static/js/main.5a75e8b1.chunk.js",
+    "main.js.map": "/mywebsite2/static/js/main.5a75e8b1.chunk.js.map",
+    "runtime-main.js": "/mywebsite2/static/js/runtime-main.31d56ffb.js",
+    "runtime-main.js.map": "/mywebsite2/static/js/runtime-main.31d56ffb.js.map",
+    "static/js/2.b3c2d0bc.chunk.js": "/mywebsite2/static/js/2.b3c2d0bc.chunk.js",
+    "static/js/2.b3c2d0bc.chunk.js.map": "/mywebsite2/static/js/2.b3c2d0bc.chunk.js.map",
+    "static/js/3.d645edd3.chunk.js": "/mywebsite2/static/js/3.d645edd3.chunk.js",
+    "static/js/3.d645edd3.chunk.js.map": "/mywebsite2/static/js/3.d645edd3.chunk.js.map",
+    "index.html": "/mywebsite2/index.html",
+    "static/css/main.4588547d.chunk.css.map": "/mywebsite2/static/css/main.4588547d.chunk.css.map",
+    "static/js/2.b3c2d0bc.chunk.js.LICENSE.txt": "/mywebsite2/static/js/2.b3c2d0bc.chunk.js.LICENSE.txt",
+    "static/media/delbonoLogo2.81006da7.png": "/mywebsite2/static/media/delbonoLogo2.81006da7.png",
+    "static/media/profilePic.865a9041.JPG": "/mywebsite2/static/media/profilePic.865a9041.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d56ffb.js",
+    "static/js/2.b3c2d0bc.chunk.js",
+    "static/css/main.4588547d.chunk.css",
+    "static/js/main.5a75e8b1.chunk.js"
+  ]
+}
